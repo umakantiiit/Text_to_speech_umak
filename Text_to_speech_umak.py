@@ -4,7 +4,7 @@ from google.genai import types
 import wave
 import os
 
-# Voice type to prebuilt voice mapping\VOICE_MAPPING = {
+VOICE_MAPPING = {
     "Bright": "Zephyr",
     "Upbeat": "Puck",
     "Informative": "Charon",
